@@ -1,3 +1,9 @@
+'''
+URLs : 	https://github.com/zvovov/whatsapp-web/blob/bc2041fed5883e2dc6a5a9e65baba4ae970c9056/chat.py#L31
+	https://www.geeksforgeeks.org/whatsapp-using-python/
+	https://stackoverflow.com/questions/49831933/eliminate-entering-qr-whatsapp-web-automated-by-selenium-java
+'''
+
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
